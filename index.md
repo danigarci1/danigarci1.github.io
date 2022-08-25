@@ -3,26 +3,31 @@ layout: default
 tags: home
 ---
 
-# 👋 Hi there, <br/> I'm Jonathon Belotti. 
+# 👋 Hi there, <br/> I'm Dani García.
 
 ## Thanks for stopping by.
 
 ---
 
-I'm a software engineer with a focus on data & platform engineering.  
+I'm a electronics engineer with a focus on data & machine learning engineering.  
 
+During the last couple of years I have been educating myself on topics such as trading and decentralized systems. After some time I realized that most of trading strategies are based on assets momentum and direction, which could be somehow automated. That's how this project started. 
 
-I can usually be found in a programming IDE or reading. 
-I'm bullish on, and a big booster of:
+Getting data from the stock market is not that simple. Most of the free api's out there are either trash or offer small time frames of historical data. On the other hand, there are some good paid api's, but spending +100$/month just to receive data didn't seem right to me. That's why I immersed myself into the crypto space. Most of the exchanges offer a free api with historical data of every asset listed in the platform.
 
-* 🌿💚 [@bazelbuild](https://github.com/bazelbuild/) and generally using functional principles to keep things sane. (I've open-sourced a few tools for the Bazel ecosystem, see [/projects]({{ site.baseurl }}/projects))
-* Good old-fashioned books 📖. Two recent favourites are [_The Dispossessed_](https://www.goodreads.com/book/show/13651.The_Dispossessed) and [_Coders at Work_](https://www.goodreads.com/book/show/6713575-coders-at-work)
-* [Effective Altruism](https://www.vox.com/future-perfect/2019/12/6/20992100/peter-singer-effective-altruism-lives-you-can-save-animal-liberation). Helping, not harming. Doing, not having. Building, not consuming.
+Once I got enough historical data, it was time to play with different strategies. The final strategy is explained in [here]({{ site.baseurl }}/algorithm).
+
+System signals will be posted here periodically so you could follow the experiment and check the [Results]({{ site.baseurl }}/results). 
+
+If you want to receive live trading signals you could join the telegram group where +50 assets are being tracked live. [Link]({{ site.baseurl }}/join)
+
+Last, but not least, if you want to support my job, there are different ways to do so. [Link]({{ site.baseurl }}/support)
 
 ---
 
-### 🔗 [Blog]({{ site.baseurl }}/blog)
+## Links summary
+### 🔗 [Algorithm]({{ site.baseurl }}/algorithm)
 
-### 🔗 [Library]({{ site.baseurl }}/library)
+### 🔗 [Join]({{ site.baseurl }}/join)
 
-### 🔗 [Projects & Open-Source]({{ site.baseurl }}/projects)
+### 🔗 [Support]({{ site.baseurl }}/support)
