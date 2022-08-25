@@ -1,24 +1,19 @@
-# thundergolfer.github.io
+# danigarci1.github.io
 
-Just my website. The theme is [thundergolfer/**junior-theme**](https://github.com/thundergolfer/junior-theme)
+Just my visualization for the defiTracker project.
 
 ----
 
-### What it looks like
-
-![homepage preview](homepage_preview.jpg)
-
 ### What you can find there
 
-* [Blog posts](http://thundergolfer.com/)
-* [My 'library' and 'antilibrary'](http://thundergolfer.com/library)
-* [A crude summary of my open-source work](http://thundergolfer.com/projects/)
-* [A basic about me page](http://thundergolfer.com/about/)
+* [Algorithm explanation](https://danigarci1.github.io/about/)
+* [Algorithm results](https://danigarci1.github.io/results)
+* [How to support the project](https://danigarci1.github.io/support/)
+* [How to receive signals](https://danigarci1.github.io/join/)
 
 ### Other places you can find me
 
-* Twitter @ [jonobelotti_IO](https://twitter.com/jonobelotti_io)
-* LinkedIn @ [Jonathon Belotti](https://www.linkedin.com/in/jonathonbelotti/)
+* LinkedIn @ [Daniel García](www.linkedin.com/in/danigarciape)
 
 ----
 
